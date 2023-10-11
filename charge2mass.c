@@ -8,7 +8,7 @@ int main(int argc, char *  argv[])
 	I = UxHwDoubleGaussDist(1.4, 0.1);
 	printf("I = %lf\n", I);
 
-	V = UxHwDoubleGaussDist(82.2,2.0);
+	V = UxHwDoubleGaussDist(82.8,2.0);
 	printf("V = %lf\n", V);
 
 	R = UxHwDoubleGaussDist(0.0292,0.0011);
