@@ -8,6 +8,8 @@ File: charge2mass.c
 
 Simply copy and paste this code into the code editor and run it to obtain the predicted results and distributions.
 
+<img title="Distribution of the measured charge to mass ratio." alt="Dist_q/m" src="Dist_q_m.png">
+
 ## Experiment Details
 
 The repository mimics results taken from an experiment for which the aim is to measure the electron's charge-to-mass ratio. The accepted value is 1.758820 × 10<sup> 11 </sup> C/kg.
