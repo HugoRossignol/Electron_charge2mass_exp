@@ -6,7 +6,7 @@ Short script to process experimental results and compute the electron charge to 
 
 File: charge2mass.c
 
-Simply copy and paste this code into the code editor and run it to obtain the predicted results and distributions.
+Simply copy and paste this code into the Signaloid Cloud code editor and run it to obtain the predicted results and distributions.
 
 <img title="Distribution of the measured charge to mass ratio." alt="Dist_q/m" src="Dist_q_m.png">
 
